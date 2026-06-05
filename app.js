@@ -8,5 +8,3 @@ function getInvoiceTotalMessage(a, b) {
 }
 
 module.exports = { sum, getInvoiceTotalMessage };
-
-const broken deployment error = ;
